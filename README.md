@@ -16,10 +16,10 @@
 
 ### Мои контакты:
 
-[<img align="left" alt="mideev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][mideev]
-[<img align="left" alt="email | Twitter" width="22px" src="https://raw.githubusercontent.com/google/material-design-icons/master/src/communication/email/materialicons/24px.svg" />][email]
-[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mideev" width="22px" src="https://raw.githubusercontent.com/MiDeev/gg/main/globe.svg" />][mideev]
+[<img align="left" alt="email" width="22px" src="https://raw.githubusercontent.com/MiDeev/gg/main/email.svg" />][email]
+[<img align="left" alt="youtube" width="22px" src="https://raw.githubusercontent.com/MiDeev/gg/main/youtube.svg" />][youtube]
+[<img align="left" alt="twitter" width="22px" src="https://raw.githubusercontent.com/MiDeev/gg/main/twitter.svg" />][twitter]
 
 
 <br/>
